@@ -7,7 +7,7 @@
 	"license": "GPL-3.0-only",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/danielcgilibert/blog-template"
+		"url": "https://github.com/snowmanstudio/blog-template/"
 	},
 	"keywords": [
 		"astro",
@@ -20,7 +20,7 @@
 		"url": "https://github.com/danielcgilibert/blog-template/issues"
 	},
 	"scripts": {
-		"dev": "npx tinacms dev -c \"astro dev\"",
+		"dev": "tinacms dev -c \"astro dev\"",
 		"start": "astro dev",
 		"build": "astro build",
 		"sync": "astro sync",
